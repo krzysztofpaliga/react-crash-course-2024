@@ -83,6 +83,48 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "eafa",
+      "title": "fsdfsd",
+      "type": "Internship",
+      "location": "dsfsd",
+      "description": "sdfsdf",
+      "salary": "Under $50K",
+      "company": {
+        "name": "sdfsdf",
+        "description": "sdfsdf",
+        "contactEmail": "paligakrzychu@hotmail.com",
+        "contactPhone": "609933048"
+      }
+    },
+    {
+      "title": "vxcv",
+      "type": "Internship",
+      "location": "xcvxc",
+      "description": "xcv kuku",
+      "salary": "$175K - 200K",
+      "company": {
+        "name": "xcvxcv",
+        "description": "xcvxc kuku",
+        "contactEmail": "paligakrzychu@hotmail.com",
+        "contactPhone": "609933048"
+      },
+      "id": "dd68"
+    },
+    {
+      "id": "5bde",
+      "title": "fgdhgh",
+      "type": "Internship",
+      "location": "fdghgf",
+      "description": "fdghgfd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "dfghf",
+        "description": "dfgh",
+        "contactEmail": "paligakrzychu@hotmail.com",
+        "contactPhone": "609933048"
+      }
     }
   ]
 }
